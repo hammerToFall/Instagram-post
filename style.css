@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.Post {
+    margin: auto;
+    width: 50%;
+}
+.post-header {
+    display: flex;
+}
+.icon-container {
+    width: 40px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: -10px;
+}
+.post-info {
+    width: 85%;
+    height:70px;
+    margin: 0;
+    justify-content: flex-start;
+    text-align: left;
+}
+div .post-info p {
+    margin: 5px;
+}
+div .post-info h3 {
+    margin: 5px;
+}
+.menu{
+    display: flex;
+    align-items: baseline;
+    padding-top: 30px;
+}
+.cuerpo {
+}
+img {
+    width: 100%;
+}
+.post-footer {
+    padding: 10px;
+}
+.post-footer .foot-icons {
+    margin-bottom: -10px;
+    padding: 10px;
+}
+span.one {
+    margin-left: 450px;
+    padding: 10px;
+}
